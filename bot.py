@@ -4,10 +4,6 @@ import configparser
 import feedparser
 
 
-# class TelegramBot:
-#     def __init__(self):
-
-
 # Set up bot configuration
 config = configparser.ConfigParser()
 config.read('settings.ini')
@@ -15,6 +11,7 @@ FEED = config.get('RSS', 'feed')
 DATETIME = config.get('RSS', 'DATETIME')
 BOT_TOKEN = config.get('Telegram', 'BOT_TOKEN')
 CHANNEL = config.get('Telegram', 'CHANNEL')
+
 
 # Инициализируем телеграмм бота
 bot = telebot.TeleBot(BOT_TOKEN)
@@ -48,6 +45,7 @@ for post in reversed(rss.entries):
 
     # Отправляем сообщение в канал
     bot.send_message(CHANNEL, '<a href="' + link + '">' + text + '</a>', parse_mode='HTML')
+    # bot.send_message()
 
     # запись лога в файл
     with open('log.txt', "a") as log:

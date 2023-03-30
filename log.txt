@@ -1,0 +1,72 @@
+Thu, 30 Mar 2023 11:49:08 GMT
+[Перевод] Отладка гейзенбагов: история о параллельной обработке
+https://habr.com/ru/post/725864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725864
+Thu, 30 Mar 2023 11:59:09 GMT
+Создание высокодетальных 3D моделей сложного технологического оборудования в проектах Bimeister
+https://habr.com/ru/post/725894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725894
+Thu, 30 Mar 2023 12:00:26 GMT
+Как мы создавали свой тренажёр по программированию — опыт Нетологии
+https://habr.com/ru/post/725540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725540
+Thu, 30 Mar 2023 12:19:21 GMT
+Как я из специалиста по защите информации стал аналитиком данных. Моя история
+https://habr.com/ru/post/725896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725896
+Thu, 30 Mar 2023 12:24:48 GMT
+Эксперимент с красивой нарезкой оргструктуры
+https://habr.com/ru/post/725600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725600
+Thu, 30 Mar 2023 12:33:13 GMT
+[Перевод] HTTP/3 и QUIC: Как это работает?
+https://habr.com/ru/post/725902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725902
+Thu, 30 Mar 2023 12:49:33 GMT
+Повышаем прозрачность в проектном управлении
+https://habr.com/ru/post/725906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725906
+Thu, 30 Mar 2023 13:00:02 GMT
+Инфернальная система. ОС Inferno, опередившая время
+https://habr.com/ru/post/721686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=721686
+Thu, 30 Mar 2023 13:02:18 GMT
+Не шути с ChatGPT. Как хайповая нейросеть может применяться в кибератаках и изменить ИБ
+https://habr.com/ru/post/725730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725730
+Thu, 30 Mar 2023 13:10:03 GMT
+Что под капотом у Leak Canary?
+https://habr.com/ru/post/725778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725778
+Thu, 30 Mar 2023 13:11:45 GMT
+Расширенные шаблоны свойств
+https://habr.com/ru/post/725762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725762
+Thu, 30 Mar 2023 13:31:12 GMT
+Расчет транспортного потока на основе YOLOv5 и DeepSORT на базе Deepstream
+https://habr.com/ru/post/725916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725916
+Thu, 30 Mar 2023 13:47:03 GMT
+Какой инопланетные астрономы увидели бы Землю
+https://habr.com/ru/post/725918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725918
+Thu, 30 Mar 2023 14:01:07 GMT
+[Перевод] Эфемерные контейнеры в Kubernetes
+https://habr.com/ru/post/720510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=720510
+Thu, 30 Mar 2023 14:13:19 GMT
+[recovery mode] Большой обзор. Рекордно высокая инфляция в мире. Кризис 2022 г
+https://habr.com/ru/post/725924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725924
+Thu, 30 Mar 2023 14:22:32 GMT
+ML-пайплайн классических банковских моделей классификации
+https://habr.com/ru/post/725928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725928
+Thu, 30 Mar 2023 14:23:37 GMT
+Ультимативный Roadmap для Python-разработчика в 2023 году + источники знаний
+https://habr.com/ru/post/725930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725930
+Thu, 30 Mar 2023 14:33:54 GMT
+Консистентность в конкуретной среде: как не захлебнуться в потоках данных
+https://habr.com/ru/post/725722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725722
+Thu, 30 Mar 2023 14:37:59 GMT
+[Перевод] Кофемашина с открытым исходным кодом — как сделать (почти) с нуля
+https://habr.com/ru/post/725932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725932
+Thu, 30 Mar 2023 14:56:22 GMT
+Как упростить анализ данных? Запуск и сценарии использования готовой виртуальной машины для аналитики
+https://habr.com/ru/post/725920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725920
+Thu, 30 Mar 2023 14:37:59 GMT
+[Перевод] Кофемашина с открытым исходным кодом — как сделать (почти) с нуля
+https://habr.com/ru/post/725932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725932
+Thu, 30 Mar 2023 14:56:22 GMT
+Как упростить анализ данных? Запуск и сценарии использования готовой виртуальной машины для аналитики
+https://habr.com/ru/post/725920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725920
+Thu, 30 Mar 2023 15:04:56 GMT
+ArrayPool&lt;T&gt;: подводные камни
+https://habr.com/ru/post/723420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=723420
+Thu, 30 Mar 2023 15:07:19 GMT
+[Перевод] Странная география облачных сетей
+https://habr.com/ru/post/725946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=725946
