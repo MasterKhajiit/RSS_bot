@@ -45,7 +45,6 @@ for post in reversed(rss.entries):
 
     # Отправляем сообщение в канал
     bot.send_message(CHANNEL, '<a href="' + link + '">' + text + '</a>', parse_mode='HTML')
-    # bot.send_message()
 
     # запись лога в файл
     with open('log.txt', "a") as log:
